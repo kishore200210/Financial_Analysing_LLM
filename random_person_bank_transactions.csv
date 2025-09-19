@@ -1,0 +1,549 @@
+date,time,amount,direction,counterparty,description,ref_id,category
+2024-09-02,19:02,17734,debit,Flipkart,Payment related to Flipkart,UTR100000,Shopping
+2024-09-04,11:48,17785,debit,Uber,Payment related to Uber,UTR100001,Transport
+2024-09-04,23:55,40113,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100002,Salary
+2024-09-04,12:56,3896,debit,Airtel,Payment related to Airtel,UTR100003,Bills
+2024-09-06,09:46,8167,debit,Self Account,Payment related to Self Account,UTR100004,Transfer
+2024-09-06,20:06,19836,debit,Myntra,Payment related to Myntra,UTR100005,Shopping
+2024-09-06,07:56,49949,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100006,Salary
+2024-09-07,20:41,21433,debit,Flat Rent,Payment related to Flat Rent,UTR100007,Rent
+2024-09-10,11:58,6166,debit,Amazon,Payment related to Amazon,UTR100008,Shopping
+2024-09-10,22:02,12352,debit,Zomato,Payment related to Zomato,UTR100009,Food
+2024-09-10,09:08,29727,debit,SBI Securities,Payment related to SBI Securities,UTR100010,Investment
+2024-09-12,14:59,14230,debit,Zepto,Payment related to Zepto,UTR100011,Groceries
+2024-09-12,03:37,47806,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100012,Salary
+2024-09-12,10:42,30760,debit,SBI Securities,Payment related to SBI Securities,UTR100013,Investment
+2024-09-13,14:05,12054,debit,BookMyShow,Payment related to BookMyShow,UTR100014,Entertainment
+2024-09-13,21:53,7809,debit,Hotstar,Payment related to Hotstar,UTR100015,Entertainment
+2024-09-13,10:59,2141,debit,Airtel,Payment related to Airtel,UTR100016,Bills
+2024-09-14,19:39,18446,debit,TNEB,Payment related to TNEB,UTR100017,Bills
+2024-09-14,17:29,938,debit,BookMyShow,Payment related to BookMyShow,UTR100018,Entertainment
+2024-09-15,16:25,17289,debit,Self Account,Payment related to Self Account,UTR100019,Transfer
+2024-09-15,23:27,8364,debit,Zomato,Payment related to Zomato,UTR100020,Food
+2024-09-15,06:50,15096,debit,Hotstar,Payment related to Hotstar,UTR100021,Entertainment
+2024-09-16,02:20,7471,debit,BSNL,Payment related to BSNL,UTR100022,Bills
+2024-09-17,20:57,11194,debit,TNEB,Payment related to TNEB,UTR100023,Bills
+2024-09-19,21:35,4219,debit,BSNL,Payment related to BSNL,UTR100024,Bills
+2024-09-21,21:16,7634,debit,Flat Rent,Payment related to Flat Rent,UTR100025,Rent
+2024-09-21,02:32,13853,debit,BigBasket,Payment related to BigBasket,UTR100026,Groceries
+2024-09-22,19:38,7139,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100027,Salary
+2024-09-22,09:22,42162,debit,Mutual Fund,Payment related to Mutual Fund,UTR100028,Investment
+2024-09-22,18:45,1499,debit,BSNL,Payment related to BSNL,UTR100029,Bills
+2024-09-23,17:46,8513,debit,Myntra,Payment related to Myntra,UTR100030,Shopping
+2024-09-23,04:41,10127,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100031,Salary
+2024-09-23,06:45,9964,debit,Uber,Payment related to Uber,UTR100032,Transport
+2024-09-24,06:05,19420,debit,Friend Transfer,Payment related to Friend Transfer,UTR100033,Transfer
+2024-09-25,18:26,21744,debit,Flat Rent,Payment related to Flat Rent,UTR100034,Rent
+2024-09-25,01:54,357,debit,Uber,Payment related to Uber,UTR100035,Transport
+2024-09-26,14:07,19037,debit,Amazon,Payment related to Amazon,UTR100036,Shopping
+2024-09-26,11:39,42213,debit,SBI Securities,Payment related to SBI Securities,UTR100037,Investment
+2024-09-26,07:25,9571,debit,Self Account,Payment related to Self Account,UTR100038,Transfer
+2024-09-30,18:28,17380,debit,Hotstar,Payment related to Hotstar,UTR100039,Entertainment
+2024-09-30,12:14,19117,debit,BigBasket,Payment related to BigBasket,UTR100040,Groceries
+2024-10-01,11:35,38830,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100041,Salary
+2024-10-01,01:57,40844,debit,Mutual Fund,Payment related to Mutual Fund,UTR100042,Investment
+2024-10-01,02:09,39258,debit,SBI Securities,Payment related to SBI Securities,UTR100043,Investment
+2024-10-02,16:39,34411,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100044,Salary
+2024-10-02,00:06,42331,debit,House Owner,Payment related to House Owner,UTR100045,Rent
+2024-10-03,13:00,5899,debit,Zomato,Payment related to Zomato,UTR100046,Food
+2024-10-03,00:20,30717,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100047,Salary
+2024-10-03,20:07,596,debit,Amazon,Payment related to Amazon,UTR100048,Shopping
+2024-10-04,07:07,16287,debit,Self Account,Payment related to Self Account,UTR100049,Transfer
+2024-10-04,01:06,22208,debit,House Owner,Payment related to House Owner,UTR100050,Rent
+2024-10-04,04:51,42602,debit,SBI Securities,Payment related to SBI Securities,UTR100051,Investment
+2024-10-05,23:07,19266,debit,Netflix,Payment related to Netflix,UTR100052,Entertainment
+2024-10-05,09:17,16008,debit,Amazon,Payment related to Amazon,UTR100053,Shopping
+2024-10-05,05:12,19968,debit,Dominos,Payment related to Dominos,UTR100054,Food
+2024-10-07,13:39,5635,debit,BookMyShow,Payment related to BookMyShow,UTR100055,Entertainment
+2024-10-07,23:09,14895,debit,BSNL,Payment related to BSNL,UTR100056,Bills
+2024-10-08,18:51,14002,debit,Friend Transfer,Payment related to Friend Transfer,UTR100057,Transfer
+2024-10-08,12:42,33605,debit,Flat Rent,Payment related to Flat Rent,UTR100058,Rent
+2024-10-09,18:45,10381,debit,SBI Securities,Payment related to SBI Securities,UTR100059,Investment
+2024-10-10,19:54,6767,debit,Flat Rent,Payment related to Flat Rent,UTR100060,Rent
+2024-10-11,08:06,2826,debit,Airtel,Payment related to Airtel,UTR100061,Bills
+2024-10-11,01:41,3222,debit,Dominos,Payment related to Dominos,UTR100062,Food
+2024-10-11,07:53,10093,debit,Friend Transfer,Payment related to Friend Transfer,UTR100063,Transfer
+2024-10-12,02:04,9630,debit,Zomato,Payment related to Zomato,UTR100064,Food
+2024-10-13,11:49,39632,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100065,Salary
+2024-10-14,11:30,296,debit,Airtel,Payment related to Airtel,UTR100066,Bills
+2024-10-15,09:51,30960,debit,Mutual Fund,Payment related to Mutual Fund,UTR100067,Investment
+2024-10-17,00:42,4112,debit,Friend Transfer,Payment related to Friend Transfer,UTR100068,Transfer
+2024-10-20,04:24,18941,debit,Zepto,Payment related to Zepto,UTR100069,Groceries
+2024-10-20,05:46,19399,debit,Zomato,Payment related to Zomato,UTR100070,Food
+2024-10-20,02:43,28922,debit,Mutual Fund,Payment related to Mutual Fund,UTR100071,Investment
+2024-10-21,09:45,14305,debit,Mutual Fund,Payment related to Mutual Fund,UTR100072,Investment
+2024-10-22,16:27,4712,debit,Netflix,Payment related to Netflix,UTR100073,Entertainment
+2024-10-22,12:35,4710,debit,Friend Transfer,Payment related to Friend Transfer,UTR100074,Transfer
+2024-10-22,12:00,201,debit,Amazon,Payment related to Amazon,UTR100075,Shopping
+2024-10-23,02:34,6159,debit,Airtel,Payment related to Airtel,UTR100076,Bills
+2024-10-23,06:22,35077,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100077,Salary
+2024-10-24,16:57,1017,debit,Hotstar,Payment related to Hotstar,UTR100078,Entertainment
+2024-10-25,09:43,7872,debit,Hotstar,Payment related to Hotstar,UTR100079,Entertainment
+2024-10-25,16:32,10592,debit,Hotstar,Payment related to Hotstar,UTR100080,Entertainment
+2024-10-25,12:03,4685,debit,BigBasket,Payment related to BigBasket,UTR100081,Groceries
+2024-10-26,21:17,21732,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100082,Salary
+2024-10-26,13:05,1878,debit,Myntra,Payment related to Myntra,UTR100083,Shopping
+2024-10-27,21:02,11599,debit,House Owner,Payment related to House Owner,UTR100084,Rent
+2024-10-27,01:31,15759,debit,Hotstar,Payment related to Hotstar,UTR100085,Entertainment
+2024-10-30,08:46,12555,debit,Self Account,Payment related to Self Account,UTR100086,Transfer
+2024-10-30,16:35,12399,debit,Friend Transfer,Payment related to Friend Transfer,UTR100087,Transfer
+2024-10-31,08:06,18055,debit,TNEB,Payment related to TNEB,UTR100088,Bills
+2024-11-01,12:54,5081,debit,Amazon,Payment related to Amazon,UTR100089,Shopping
+2024-11-01,23:16,856,debit,Ola,Payment related to Ola,UTR100090,Transport
+2024-11-02,11:54,32694,debit,Mutual Fund,Payment related to Mutual Fund,UTR100091,Investment
+2024-11-03,12:00,19174,debit,Flipkart,Payment related to Flipkart,UTR100092,Shopping
+2024-11-03,20:12,3728,debit,BSNL,Payment related to BSNL,UTR100093,Bills
+2024-11-03,00:42,43321,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100094,Salary
+2024-11-04,02:16,41686,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100095,Salary
+2024-11-05,08:29,3690,debit,BigBasket,Payment related to BigBasket,UTR100096,Groceries
+2024-11-05,07:40,5371,debit,Uber,Payment related to Uber,UTR100097,Transport
+2024-11-05,17:55,15152,debit,Flat Rent,Payment related to Flat Rent,UTR100098,Rent
+2024-11-06,07:47,26852,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100099,Salary
+2024-11-06,01:00,7940,debit,TNEB,Payment related to TNEB,UTR100100,Bills
+2024-11-07,13:28,32584,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100101,Salary
+2024-11-08,22:50,9971,debit,Airtel,Payment related to Airtel,UTR100102,Bills
+2024-11-08,01:01,2803,debit,Friend Transfer,Payment related to Friend Transfer,UTR100103,Transfer
+2024-11-08,14:16,19806,debit,BigBasket,Payment related to BigBasket,UTR100104,Groceries
+2024-11-09,16:27,7759,debit,Blinkit,Payment related to Blinkit,UTR100105,Groceries
+2024-11-09,03:58,9750,debit,Flat Rent,Payment related to Flat Rent,UTR100106,Rent
+2024-11-11,17:08,4301,debit,Netflix,Payment related to Netflix,UTR100107,Entertainment
+2024-11-12,13:09,9539,debit,Rapido,Payment related to Rapido,UTR100108,Transport
+2024-11-13,06:49,4471,debit,Blinkit,Payment related to Blinkit,UTR100109,Groceries
+2024-11-13,08:50,11423,debit,Swiggy,Payment related to Swiggy,UTR100110,Food
+2024-11-15,21:53,4463,debit,BSNL,Payment related to BSNL,UTR100111,Bills
+2024-11-15,15:50,10706,debit,Zomato,Payment related to Zomato,UTR100112,Food
+2024-11-15,14:54,12038,debit,BigBasket,Payment related to BigBasket,UTR100113,Groceries
+2024-11-16,05:22,23760,debit,Mutual Fund,Payment related to Mutual Fund,UTR100114,Investment
+2024-11-19,07:54,4427,debit,Swiggy,Payment related to Swiggy,UTR100115,Food
+2024-11-19,03:14,7186,debit,BSNL,Payment related to BSNL,UTR100116,Bills
+2024-11-20,20:45,2213,debit,BookMyShow,Payment related to BookMyShow,UTR100117,Entertainment
+2024-11-21,06:02,11673,debit,Flipkart,Payment related to Flipkart,UTR100118,Shopping
+2024-11-22,07:03,13073,debit,Airtel,Payment related to Airtel,UTR100119,Bills
+2024-11-23,22:13,5192,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100120,Salary
+2024-11-23,08:00,39070,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100121,Salary
+2024-11-23,19:55,959,debit,Myntra,Payment related to Myntra,UTR100122,Shopping
+2024-11-25,22:21,17219,debit,Dominos,Payment related to Dominos,UTR100123,Food
+2024-11-26,20:33,9737,debit,Amazon,Payment related to Amazon,UTR100124,Shopping
+2024-11-27,11:09,669,debit,Dominos,Payment related to Dominos,UTR100125,Food
+2024-11-28,18:56,11483,debit,Netflix,Payment related to Netflix,UTR100126,Entertainment
+2024-11-28,08:54,679,debit,Zomato,Payment related to Zomato,UTR100127,Food
+2024-11-29,18:25,15820,debit,Netflix,Payment related to Netflix,UTR100128,Entertainment
+2024-11-30,09:52,19486,debit,Blinkit,Payment related to Blinkit,UTR100129,Groceries
+2024-11-30,07:05,48781,debit,SBI Securities,Payment related to SBI Securities,UTR100130,Investment
+2024-12-02,05:44,9697,debit,TNEB,Payment related to TNEB,UTR100131,Bills
+2024-12-02,23:44,3980,debit,BookMyShow,Payment related to BookMyShow,UTR100132,Entertainment
+2024-12-05,23:32,16299,debit,Hotstar,Payment related to Hotstar,UTR100133,Entertainment
+2024-12-08,00:00,8107,debit,Self Account,Payment related to Self Account,UTR100134,Transfer
+2024-12-08,12:09,11884,debit,Uber,Payment related to Uber,UTR100135,Transport
+2024-12-08,21:13,4879,debit,Hotstar,Payment related to Hotstar,UTR100136,Entertainment
+2024-12-09,05:06,33366,debit,SBI Securities,Payment related to SBI Securities,UTR100137,Investment
+2024-12-09,02:08,45095,debit,SBI Securities,Payment related to SBI Securities,UTR100138,Investment
+2024-12-09,02:43,9754,debit,House Owner,Payment related to House Owner,UTR100139,Rent
+2024-12-10,20:54,8909,debit,Swiggy,Payment related to Swiggy,UTR100140,Food
+2024-12-10,23:59,11928,debit,Amazon,Payment related to Amazon,UTR100141,Shopping
+2024-12-10,16:38,4541,debit,Zomato,Payment related to Zomato,UTR100142,Food
+2024-12-11,16:47,18800,debit,Rapido,Payment related to Rapido,UTR100143,Transport
+2024-12-11,11:32,13815,debit,House Owner,Payment related to House Owner,UTR100144,Rent
+2024-12-12,11:41,16444,debit,Ola,Payment related to Ola,UTR100145,Transport
+2024-12-12,22:48,12118,debit,Zepto,Payment related to Zepto,UTR100146,Groceries
+2024-12-14,06:51,536,debit,TNEB,Payment related to TNEB,UTR100147,Bills
+2024-12-14,07:12,303,debit,Friend Transfer,Payment related to Friend Transfer,UTR100148,Transfer
+2024-12-14,23:31,9799,debit,Friend Transfer,Payment related to Friend Transfer,UTR100149,Transfer
+2024-12-15,05:02,4406,debit,Rapido,Payment related to Rapido,UTR100150,Transport
+2024-12-17,00:24,11841,debit,Zomato,Payment related to Zomato,UTR100151,Food
+2024-12-17,09:23,9907,debit,House Owner,Payment related to House Owner,UTR100152,Rent
+2024-12-17,23:09,6829,debit,Amazon,Payment related to Amazon,UTR100153,Shopping
+2024-12-18,16:46,12816,debit,BSNL,Payment related to BSNL,UTR100154,Bills
+2024-12-18,12:06,398,debit,Friend Transfer,Payment related to Friend Transfer,UTR100155,Transfer
+2024-12-18,19:59,5851,debit,SBI Securities,Payment related to SBI Securities,UTR100156,Investment
+2024-12-20,13:43,4048,debit,Zepto,Payment related to Zepto,UTR100157,Groceries
+2024-12-20,20:09,15687,debit,Airtel,Payment related to Airtel,UTR100158,Bills
+2024-12-20,08:53,15929,debit,Zepto,Payment related to Zepto,UTR100159,Groceries
+2024-12-22,21:02,9840,debit,Flat Rent,Payment related to Flat Rent,UTR100160,Rent
+2024-12-22,16:21,17650,debit,Swiggy,Payment related to Swiggy,UTR100161,Food
+2024-12-22,00:56,15010,debit,Myntra,Payment related to Myntra,UTR100162,Shopping
+2024-12-23,00:13,10068,debit,Self Account,Payment related to Self Account,UTR100163,Transfer
+2024-12-24,05:16,10838,debit,SBI Securities,Payment related to SBI Securities,UTR100164,Investment
+2024-12-24,12:46,17070,debit,Swiggy,Payment related to Swiggy,UTR100165,Food
+2024-12-25,17:02,16095,debit,Swiggy,Payment related to Swiggy,UTR100166,Food
+2024-12-25,13:12,11185,debit,Zomato,Payment related to Zomato,UTR100167,Food
+2024-12-25,04:00,16374,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100168,Salary
+2024-12-26,14:02,13796,debit,Self Account,Payment related to Self Account,UTR100169,Transfer
+2024-12-28,15:03,6607,debit,Flat Rent,Payment related to Flat Rent,UTR100170,Rent
+2024-12-28,07:43,17922,debit,Flipkart,Payment related to Flipkart,UTR100171,Shopping
+2024-12-29,09:18,1207,debit,Dominos,Payment related to Dominos,UTR100172,Food
+2024-12-29,02:02,9349,debit,Friend Transfer,Payment related to Friend Transfer,UTR100173,Transfer
+2024-12-29,12:38,47368,debit,SBI Securities,Payment related to SBI Securities,UTR100174,Investment
+2024-12-30,04:33,7890,debit,SBI Securities,Payment related to SBI Securities,UTR100175,Investment
+2024-12-31,19:22,15021,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100176,Salary
+2024-12-31,23:48,27523,debit,Mutual Fund,Payment related to Mutual Fund,UTR100177,Investment
+2025-01-02,06:06,211,debit,TNEB,Payment related to TNEB,UTR100178,Bills
+2025-01-02,03:57,462,debit,Amazon,Payment related to Amazon,UTR100179,Shopping
+2025-01-02,17:53,9901,debit,BSNL,Payment related to BSNL,UTR100180,Bills
+2025-01-03,16:57,6099,debit,Netflix,Payment related to Netflix,UTR100181,Entertainment
+2025-01-04,23:16,4709,debit,Amazon,Payment related to Amazon,UTR100182,Shopping
+2025-01-04,20:31,34363,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100183,Salary
+2025-01-04,21:03,10867,debit,Swiggy,Payment related to Swiggy,UTR100184,Food
+2025-01-05,00:24,26250,debit,Mutual Fund,Payment related to Mutual Fund,UTR100185,Investment
+2025-01-06,09:00,36680,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100186,Salary
+2025-01-06,15:28,29196,debit,SBI Securities,Payment related to SBI Securities,UTR100187,Investment
+2025-01-06,10:09,9264,debit,Self Account,Payment related to Self Account,UTR100188,Transfer
+2025-01-07,01:52,1682,debit,Dominos,Payment related to Dominos,UTR100189,Food
+2025-01-07,10:11,17018,debit,Netflix,Payment related to Netflix,UTR100190,Entertainment
+2025-01-07,11:23,7638,debit,Myntra,Payment related to Myntra,UTR100191,Shopping
+2025-01-08,12:22,19561,debit,Rapido,Payment related to Rapido,UTR100192,Transport
+2025-01-10,22:17,3153,debit,Myntra,Payment related to Myntra,UTR100193,Shopping
+2025-01-10,19:38,8683,debit,Zepto,Payment related to Zepto,UTR100194,Groceries
+2025-01-11,15:57,15748,debit,Rapido,Payment related to Rapido,UTR100195,Transport
+2025-01-11,14:20,18889,debit,Hotstar,Payment related to Hotstar,UTR100196,Entertainment
+2025-01-11,10:27,29884,debit,SBI Securities,Payment related to SBI Securities,UTR100197,Investment
+2025-01-13,12:29,10633,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100198,Salary
+2025-01-13,04:53,16050,debit,Friend Transfer,Payment related to Friend Transfer,UTR100199,Transfer
+2025-01-15,10:26,24343,debit,Mutual Fund,Payment related to Mutual Fund,UTR100200,Investment
+2025-01-15,09:14,11321,debit,Swiggy,Payment related to Swiggy,UTR100201,Food
+2025-01-15,15:36,15024,debit,Myntra,Payment related to Myntra,UTR100202,Shopping
+2025-01-17,14:35,17742,debit,Hotstar,Payment related to Hotstar,UTR100203,Entertainment
+2025-01-17,09:32,14678,debit,BookMyShow,Payment related to BookMyShow,UTR100204,Entertainment
+2025-01-17,03:38,6454,debit,Uber,Payment related to Uber,UTR100205,Transport
+2025-01-19,15:28,7159,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100206,Salary
+2025-01-19,16:44,6936,debit,Flipkart,Payment related to Flipkart,UTR100207,Shopping
+2025-01-20,19:33,7738,debit,Dominos,Payment related to Dominos,UTR100208,Food
+2025-01-20,00:50,7827,debit,BookMyShow,Payment related to BookMyShow,UTR100209,Entertainment
+2025-01-20,05:33,7927,debit,Airtel,Payment related to Airtel,UTR100210,Bills
+2025-01-21,07:17,38477,debit,SBI Securities,Payment related to SBI Securities,UTR100211,Investment
+2025-01-22,00:57,3530,debit,Myntra,Payment related to Myntra,UTR100212,Shopping
+2025-01-22,14:06,7213,debit,Ola,Payment related to Ola,UTR100213,Transport
+2025-01-23,16:51,20738,debit,Flat Rent,Payment related to Flat Rent,UTR100214,Rent
+2025-01-24,11:25,7703,debit,Airtel,Payment related to Airtel,UTR100215,Bills
+2025-01-24,12:03,312,debit,Uber,Payment related to Uber,UTR100216,Transport
+2025-01-24,04:29,1240,debit,Friend Transfer,Payment related to Friend Transfer,UTR100217,Transfer
+2025-01-25,23:41,10241,debit,Self Account,Payment related to Self Account,UTR100218,Transfer
+2025-01-25,22:13,12134,debit,TNEB,Payment related to TNEB,UTR100219,Bills
+2025-01-25,02:31,14097,debit,Blinkit,Payment related to Blinkit,UTR100220,Groceries
+2025-01-26,01:00,13960,debit,Rapido,Payment related to Rapido,UTR100221,Transport
+2025-01-27,14:59,7053,debit,Zomato,Payment related to Zomato,UTR100222,Food
+2025-01-27,04:53,2642,debit,BSNL,Payment related to BSNL,UTR100223,Bills
+2025-01-28,04:31,12059,debit,Rapido,Payment related to Rapido,UTR100224,Transport
+2025-01-29,01:21,12838,debit,BSNL,Payment related to BSNL,UTR100225,Bills
+2025-01-30,06:59,14080,debit,TNEB,Payment related to TNEB,UTR100226,Bills
+2025-02-01,15:58,19822,debit,Blinkit,Payment related to Blinkit,UTR100227,Groceries
+2025-02-01,18:36,34385,debit,Mutual Fund,Payment related to Mutual Fund,UTR100228,Investment
+2025-02-02,13:52,9176,debit,Amazon,Payment related to Amazon,UTR100229,Shopping
+2025-02-03,00:26,4636,debit,Dominos,Payment related to Dominos,UTR100230,Food
+2025-02-04,01:21,16386,debit,Hotstar,Payment related to Hotstar,UTR100231,Entertainment
+2025-02-05,11:17,39282,debit,House Owner,Payment related to House Owner,UTR100232,Rent
+2025-02-05,10:35,13070,debit,Swiggy,Payment related to Swiggy,UTR100233,Food
+2025-02-05,16:11,9537,debit,SBI Securities,Payment related to SBI Securities,UTR100234,Investment
+2025-02-06,08:21,7740,debit,Flat Rent,Payment related to Flat Rent,UTR100235,Rent
+2025-02-07,14:31,8104,debit,Flipkart,Payment related to Flipkart,UTR100236,Shopping
+2025-02-08,17:33,6414,debit,Ola,Payment related to Ola,UTR100237,Transport
+2025-02-08,05:01,13790,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100238,Salary
+2025-02-09,13:23,6238,debit,BSNL,Payment related to BSNL,UTR100239,Bills
+2025-02-10,20:04,9095,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100240,Salary
+2025-02-10,16:47,4651,debit,Amazon,Payment related to Amazon,UTR100241,Shopping
+2025-02-10,09:49,13788,debit,Friend Transfer,Payment related to Friend Transfer,UTR100242,Transfer
+2025-02-12,03:37,6786,debit,Friend Transfer,Payment related to Friend Transfer,UTR100243,Transfer
+2025-02-13,14:50,17175,debit,Airtel,Payment related to Airtel,UTR100244,Bills
+2025-02-16,07:27,7841,debit,Flipkart,Payment related to Flipkart,UTR100245,Shopping
+2025-02-16,02:09,32093,debit,SBI Securities,Payment related to SBI Securities,UTR100246,Investment
+2025-02-16,15:06,12654,debit,Airtel,Payment related to Airtel,UTR100247,Bills
+2025-02-17,07:00,8807,debit,Zomato,Payment related to Zomato,UTR100248,Food
+2025-02-17,08:16,37079,debit,House Owner,Payment related to House Owner,UTR100249,Rent
+2025-02-17,22:31,15349,debit,BSNL,Payment related to BSNL,UTR100250,Bills
+2025-02-18,15:38,17270,debit,BigBasket,Payment related to BigBasket,UTR100251,Groceries
+2025-02-18,07:54,17898,debit,BookMyShow,Payment related to BookMyShow,UTR100252,Entertainment
+2025-02-18,06:29,18067,debit,Netflix,Payment related to Netflix,UTR100253,Entertainment
+2025-02-19,22:18,17196,debit,BSNL,Payment related to BSNL,UTR100254,Bills
+2025-02-19,00:27,14722,debit,Rapido,Payment related to Rapido,UTR100255,Transport
+2025-02-20,10:27,10133,debit,Uber,Payment related to Uber,UTR100256,Transport
+2025-02-21,14:57,29565,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100257,Salary
+2025-02-21,02:27,32972,debit,Flat Rent,Payment related to Flat Rent,UTR100258,Rent
+2025-02-21,19:17,18023,debit,Zomato,Payment related to Zomato,UTR100259,Food
+2025-02-22,10:30,1405,debit,Swiggy,Payment related to Swiggy,UTR100260,Food
+2025-02-23,09:01,3708,debit,Flipkart,Payment related to Flipkart,UTR100261,Shopping
+2025-02-24,18:23,46895,debit,Mutual Fund,Payment related to Mutual Fund,UTR100262,Investment
+2025-02-24,17:24,36817,debit,SBI Securities,Payment related to SBI Securities,UTR100263,Investment
+2025-02-25,01:38,40417,debit,SBI Securities,Payment related to SBI Securities,UTR100264,Investment
+2025-02-25,01:46,9724,debit,Rapido,Payment related to Rapido,UTR100265,Transport
+2025-02-25,07:40,1259,debit,Hotstar,Payment related to Hotstar,UTR100266,Entertainment
+2025-02-27,15:16,13043,debit,Self Account,Payment related to Self Account,UTR100267,Transfer
+2025-02-27,21:58,4099,debit,Zomato,Payment related to Zomato,UTR100268,Food
+2025-02-27,07:37,2535,debit,Hotstar,Payment related to Hotstar,UTR100269,Entertainment
+2025-02-28,00:15,5085,debit,Myntra,Payment related to Myntra,UTR100270,Shopping
+2025-02-28,03:37,19347,debit,Myntra,Payment related to Myntra,UTR100271,Shopping
+2025-03-01,17:28,40417,debit,Mutual Fund,Payment related to Mutual Fund,UTR100272,Investment
+2025-03-01,13:09,14259,debit,Amazon,Payment related to Amazon,UTR100273,Shopping
+2025-03-02,18:28,17345,debit,Blinkit,Payment related to Blinkit,UTR100274,Groceries
+2025-03-02,19:38,1073,debit,Amazon,Payment related to Amazon,UTR100275,Shopping
+2025-03-02,01:00,17415,debit,BigBasket,Payment related to BigBasket,UTR100276,Groceries
+2025-03-04,20:00,607,debit,Netflix,Payment related to Netflix,UTR100277,Entertainment
+2025-03-04,07:50,9093,debit,BSNL,Payment related to BSNL,UTR100278,Bills
+2025-03-04,23:47,14143,debit,Hotstar,Payment related to Hotstar,UTR100279,Entertainment
+2025-03-05,15:49,867,debit,Self Account,Payment related to Self Account,UTR100280,Transfer
+2025-03-05,20:11,11321,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100281,Salary
+2025-03-06,03:19,5724,debit,Zepto,Payment related to Zepto,UTR100282,Groceries
+2025-03-07,14:16,39232,debit,Mutual Fund,Payment related to Mutual Fund,UTR100283,Investment
+2025-03-07,21:02,3125,debit,Friend Transfer,Payment related to Friend Transfer,UTR100284,Transfer
+2025-03-07,02:10,9798,debit,Self Account,Payment related to Self Account,UTR100285,Transfer
+2025-03-10,01:17,15042,debit,Hotstar,Payment related to Hotstar,UTR100286,Entertainment
+2025-03-11,11:28,49792,debit,Flat Rent,Payment related to Flat Rent,UTR100287,Rent
+2025-03-11,17:32,8179,debit,BigBasket,Payment related to BigBasket,UTR100288,Groceries
+2025-03-12,21:48,17408,debit,Blinkit,Payment related to Blinkit,UTR100289,Groceries
+2025-03-13,19:06,26678,debit,House Owner,Payment related to House Owner,UTR100290,Rent
+2025-03-14,17:16,15773,debit,Uber,Payment related to Uber,UTR100291,Transport
+2025-03-14,07:46,1041,debit,BigBasket,Payment related to BigBasket,UTR100292,Groceries
+2025-03-14,20:02,17819,debit,TNEB,Payment related to TNEB,UTR100293,Bills
+2025-03-15,18:24,34992,debit,Flat Rent,Payment related to Flat Rent,UTR100294,Rent
+2025-03-15,19:58,15486,debit,Friend Transfer,Payment related to Friend Transfer,UTR100295,Transfer
+2025-03-15,06:07,8919,debit,Self Account,Payment related to Self Account,UTR100296,Transfer
+2025-03-16,15:17,4422,debit,Ola,Payment related to Ola,UTR100297,Transport
+2025-03-17,01:08,1119,debit,Swiggy,Payment related to Swiggy,UTR100298,Food
+2025-03-17,02:00,16611,debit,Self Account,Payment related to Self Account,UTR100299,Transfer
+2025-03-18,22:00,33233,debit,SBI Securities,Payment related to SBI Securities,UTR100300,Investment
+2025-03-18,23:03,13006,debit,Hotstar,Payment related to Hotstar,UTR100301,Entertainment
+2025-03-19,20:37,16775,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100302,Salary
+2025-03-19,17:41,2833,debit,BookMyShow,Payment related to BookMyShow,UTR100303,Entertainment
+2025-03-19,14:33,16659,debit,BigBasket,Payment related to BigBasket,UTR100304,Groceries
+2025-03-20,13:06,9689,debit,Amazon,Payment related to Amazon,UTR100305,Shopping
+2025-03-20,21:32,40487,debit,House Owner,Payment related to House Owner,UTR100306,Rent
+2025-03-20,16:18,20441,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100307,Salary
+2025-03-21,17:34,10053,debit,Dominos,Payment related to Dominos,UTR100308,Food
+2025-03-22,17:14,14140,debit,Dominos,Payment related to Dominos,UTR100309,Food
+2025-03-22,06:33,6041,debit,TNEB,Payment related to TNEB,UTR100310,Bills
+2025-03-22,06:10,29275,debit,SBI Securities,Payment related to SBI Securities,UTR100311,Investment
+2025-03-23,00:31,41037,debit,Mutual Fund,Payment related to Mutual Fund,UTR100312,Investment
+2025-03-24,07:07,39010,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100313,Salary
+2025-03-26,16:41,11554,debit,Myntra,Payment related to Myntra,UTR100314,Shopping
+2025-03-27,19:55,12977,debit,House Owner,Payment related to House Owner,UTR100315,Rent
+2025-03-27,11:05,9491,debit,Uber,Payment related to Uber,UTR100316,Transport
+2025-03-27,13:59,39387,debit,Mutual Fund,Payment related to Mutual Fund,UTR100317,Investment
+2025-03-30,12:34,4283,debit,BigBasket,Payment related to BigBasket,UTR100318,Groceries
+2025-03-30,06:24,5531,debit,BookMyShow,Payment related to BookMyShow,UTR100319,Entertainment
+2025-04-01,00:59,5084,debit,Self Account,Payment related to Self Account,UTR100320,Transfer
+2025-04-01,14:52,7296,debit,Hotstar,Payment related to Hotstar,UTR100321,Entertainment
+2025-04-01,18:55,6320,debit,BookMyShow,Payment related to BookMyShow,UTR100322,Entertainment
+2025-04-02,05:54,3556,debit,BookMyShow,Payment related to BookMyShow,UTR100323,Entertainment
+2025-04-02,15:57,14066,debit,Friend Transfer,Payment related to Friend Transfer,UTR100324,Transfer
+2025-04-02,11:49,9804,debit,SBI Securities,Payment related to SBI Securities,UTR100325,Investment
+2025-04-03,08:06,19252,debit,Blinkit,Payment related to Blinkit,UTR100326,Groceries
+2025-04-03,07:03,10672,debit,Mutual Fund,Payment related to Mutual Fund,UTR100327,Investment
+2025-04-04,09:16,18901,debit,Friend Transfer,Payment related to Friend Transfer,UTR100328,Transfer
+2025-04-04,12:58,14971,debit,Zomato,Payment related to Zomato,UTR100329,Food
+2025-04-04,02:33,19523,debit,Self Account,Payment related to Self Account,UTR100330,Transfer
+2025-04-05,15:58,5137,debit,BigBasket,Payment related to BigBasket,UTR100331,Groceries
+2025-04-05,21:42,7217,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100332,Salary
+2025-04-06,17:31,8657,debit,Dominos,Payment related to Dominos,UTR100333,Food
+2025-04-06,11:02,47784,debit,House Owner,Payment related to House Owner,UTR100334,Rent
+2025-04-09,04:42,46237,debit,SBI Securities,Payment related to SBI Securities,UTR100335,Investment
+2025-04-10,21:58,11898,debit,Zomato,Payment related to Zomato,UTR100336,Food
+2025-04-10,03:13,37540,debit,House Owner,Payment related to House Owner,UTR100337,Rent
+2025-04-11,14:49,16966,debit,Netflix,Payment related to Netflix,UTR100338,Entertainment
+2025-04-12,12:45,11632,debit,House Owner,Payment related to House Owner,UTR100339,Rent
+2025-04-12,11:56,4869,debit,Uber,Payment related to Uber,UTR100340,Transport
+2025-04-13,04:38,7716,debit,Ola,Payment related to Ola,UTR100341,Transport
+2025-04-13,16:43,8365,debit,BookMyShow,Payment related to BookMyShow,UTR100342,Entertainment
+2025-04-13,21:14,6655,debit,Dominos,Payment related to Dominos,UTR100343,Food
+2025-04-14,00:16,18468,debit,Zomato,Payment related to Zomato,UTR100344,Food
+2025-04-15,03:55,9599,debit,Netflix,Payment related to Netflix,UTR100345,Entertainment
+2025-04-18,16:58,10661,debit,Swiggy,Payment related to Swiggy,UTR100346,Food
+2025-04-19,15:04,9365,debit,Netflix,Payment related to Netflix,UTR100347,Entertainment
+2025-04-20,05:16,11578,debit,Friend Transfer,Payment related to Friend Transfer,UTR100348,Transfer
+2025-04-20,16:15,10442,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100349,Salary
+2025-04-20,16:24,16838,debit,Zomato,Payment related to Zomato,UTR100350,Food
+2025-04-21,18:24,17457,debit,Ola,Payment related to Ola,UTR100351,Transport
+2025-04-21,03:23,43587,debit,Mutual Fund,Payment related to Mutual Fund,UTR100352,Investment
+2025-04-23,19:01,2140,debit,Friend Transfer,Payment related to Friend Transfer,UTR100353,Transfer
+2025-04-23,21:57,13591,debit,Zepto,Payment related to Zepto,UTR100354,Groceries
+2025-04-24,04:40,15715,debit,Ola,Payment related to Ola,UTR100355,Transport
+2025-04-25,10:10,7491,debit,Myntra,Payment related to Myntra,UTR100356,Shopping
+2025-04-25,02:54,8469,debit,Flat Rent,Payment related to Flat Rent,UTR100357,Rent
+2025-04-27,20:10,1886,debit,Flipkart,Payment related to Flipkart,UTR100358,Shopping
+2025-04-27,23:03,5005,debit,Airtel,Payment related to Airtel,UTR100359,Bills
+2025-04-28,11:57,35457,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100360,Salary
+2025-04-28,07:44,10656,debit,BigBasket,Payment related to BigBasket,UTR100361,Groceries
+2025-04-28,14:47,14874,debit,BSNL,Payment related to BSNL,UTR100362,Bills
+2025-04-29,02:29,12854,debit,TNEB,Payment related to TNEB,UTR100363,Bills
+2025-05-01,11:15,5711,debit,Zomato,Payment related to Zomato,UTR100364,Food
+2025-05-01,04:27,18365,debit,BigBasket,Payment related to BigBasket,UTR100365,Groceries
+2025-05-04,12:23,6443,debit,Mutual Fund,Payment related to Mutual Fund,UTR100366,Investment
+2025-05-05,08:45,33223,debit,Flat Rent,Payment related to Flat Rent,UTR100367,Rent
+2025-05-05,08:13,16272,debit,BSNL,Payment related to BSNL,UTR100368,Bills
+2025-05-06,05:41,10572,debit,Netflix,Payment related to Netflix,UTR100369,Entertainment
+2025-05-06,09:37,15347,debit,Dominos,Payment related to Dominos,UTR100370,Food
+2025-05-07,23:53,5432,debit,Ola,Payment related to Ola,UTR100371,Transport
+2025-05-08,15:51,4456,debit,BSNL,Payment related to BSNL,UTR100372,Bills
+2025-05-08,12:40,49335,debit,House Owner,Payment related to House Owner,UTR100373,Rent
+2025-05-08,06:58,1298,debit,Myntra,Payment related to Myntra,UTR100374,Shopping
+2025-05-09,19:45,4627,debit,BSNL,Payment related to BSNL,UTR100375,Bills
+2025-05-10,08:54,16987,debit,Amazon,Payment related to Amazon,UTR100376,Shopping
+2025-05-10,12:42,3300,debit,Flipkart,Payment related to Flipkart,UTR100377,Shopping
+2025-05-12,23:02,18153,debit,Self Account,Payment related to Self Account,UTR100378,Transfer
+2025-05-12,01:44,10660,debit,Myntra,Payment related to Myntra,UTR100379,Shopping
+2025-05-13,08:57,9493,debit,Swiggy,Payment related to Swiggy,UTR100380,Food
+2025-05-13,17:35,8740,debit,Uber,Payment related to Uber,UTR100381,Transport
+2025-05-13,19:59,19309,debit,Hotstar,Payment related to Hotstar,UTR100382,Entertainment
+2025-05-14,12:39,32236,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100383,Salary
+2025-05-15,04:56,11050,debit,House Owner,Payment related to House Owner,UTR100384,Rent
+2025-05-16,18:52,9851,debit,BSNL,Payment related to BSNL,UTR100385,Bills
+2025-05-16,05:25,41844,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100386,Salary
+2025-05-17,21:57,1730,debit,Zepto,Payment related to Zepto,UTR100387,Groceries
+2025-05-18,19:19,1361,debit,BigBasket,Payment related to BigBasket,UTR100388,Groceries
+2025-05-19,00:19,5287,debit,Friend Transfer,Payment related to Friend Transfer,UTR100389,Transfer
+2025-05-19,14:27,10026,debit,Self Account,Payment related to Self Account,UTR100390,Transfer
+2025-05-19,18:58,11566,debit,BookMyShow,Payment related to BookMyShow,UTR100391,Entertainment
+2025-05-20,09:02,13554,debit,Friend Transfer,Payment related to Friend Transfer,UTR100392,Transfer
+2025-05-21,18:51,14014,debit,Zomato,Payment related to Zomato,UTR100393,Food
+2025-05-21,17:46,2392,debit,Swiggy,Payment related to Swiggy,UTR100394,Food
+2025-05-22,11:31,3488,debit,Zomato,Payment related to Zomato,UTR100395,Food
+2025-05-22,02:22,316,debit,Airtel,Payment related to Airtel,UTR100396,Bills
+2025-05-22,08:28,16767,debit,Dominos,Payment related to Dominos,UTR100397,Food
+2025-05-23,12:32,4990,debit,Airtel,Payment related to Airtel,UTR100398,Bills
+2025-05-23,11:45,19961,debit,Uber,Payment related to Uber,UTR100399,Transport
+2025-05-24,17:18,9455,debit,Ola,Payment related to Ola,UTR100400,Transport
+2025-05-24,19:25,15007,debit,Zepto,Payment related to Zepto,UTR100401,Groceries
+2025-05-26,18:36,19636,debit,Zepto,Payment related to Zepto,UTR100402,Groceries
+2025-05-26,15:37,12490,debit,Zomato,Payment related to Zomato,UTR100403,Food
+2025-05-26,05:02,13990,debit,Blinkit,Payment related to Blinkit,UTR100404,Groceries
+2025-05-27,14:22,14438,debit,Self Account,Payment related to Self Account,UTR100405,Transfer
+2025-05-29,00:14,17971,debit,Flipkart,Payment related to Flipkart,UTR100406,Shopping
+2025-05-30,10:15,4051,debit,Airtel,Payment related to Airtel,UTR100407,Bills
+2025-05-31,11:48,14029,debit,BigBasket,Payment related to BigBasket,UTR100408,Groceries
+2025-06-01,15:48,19943,debit,Flat Rent,Payment related to Flat Rent,UTR100409,Rent
+2025-06-01,18:07,17894,debit,Zomato,Payment related to Zomato,UTR100410,Food
+2025-06-01,04:16,6975,debit,Amazon,Payment related to Amazon,UTR100411,Shopping
+2025-06-02,18:09,19478,debit,Hotstar,Payment related to Hotstar,UTR100412,Entertainment
+2025-06-02,19:29,30285,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100413,Salary
+2025-06-02,10:34,12849,debit,BigBasket,Payment related to BigBasket,UTR100414,Groceries
+2025-06-03,13:08,8938,debit,Myntra,Payment related to Myntra,UTR100415,Shopping
+2025-06-03,04:31,15633,debit,Flat Rent,Payment related to Flat Rent,UTR100416,Rent
+2025-06-03,14:29,19955,debit,Ola,Payment related to Ola,UTR100417,Transport
+2025-06-04,09:35,33901,debit,House Owner,Payment related to House Owner,UTR100418,Rent
+2025-06-04,02:44,4510,debit,Amazon,Payment related to Amazon,UTR100419,Shopping
+2025-06-04,00:02,7930,debit,Friend Transfer,Payment related to Friend Transfer,UTR100420,Transfer
+2025-06-05,13:24,10252,debit,Zepto,Payment related to Zepto,UTR100421,Groceries
+2025-06-06,19:55,5255,debit,BookMyShow,Payment related to BookMyShow,UTR100422,Entertainment
+2025-06-06,18:30,4908,debit,Zepto,Payment related to Zepto,UTR100423,Groceries
+2025-06-07,19:04,6945,debit,Airtel,Payment related to Airtel,UTR100424,Bills
+2025-06-07,01:22,17008,debit,BigBasket,Payment related to BigBasket,UTR100425,Groceries
+2025-06-07,16:26,25804,debit,SBI Securities,Payment related to SBI Securities,UTR100426,Investment
+2025-06-08,13:18,4529,debit,Ola,Payment related to Ola,UTR100427,Transport
+2025-06-08,08:16,7484,debit,Airtel,Payment related to Airtel,UTR100428,Bills
+2025-06-08,06:12,345,debit,Myntra,Payment related to Myntra,UTR100429,Shopping
+2025-06-09,20:44,8239,debit,Rapido,Payment related to Rapido,UTR100430,Transport
+2025-06-09,14:55,13220,debit,BSNL,Payment related to BSNL,UTR100431,Bills
+2025-06-09,12:56,16929,debit,Flipkart,Payment related to Flipkart,UTR100432,Shopping
+2025-06-10,05:48,2859,debit,Uber,Payment related to Uber,UTR100433,Transport
+2025-06-10,09:05,6703,debit,BookMyShow,Payment related to BookMyShow,UTR100434,Entertainment
+2025-06-14,10:41,2872,debit,Self Account,Payment related to Self Account,UTR100435,Transfer
+2025-06-15,10:49,3746,debit,Ola,Payment related to Ola,UTR100436,Transport
+2025-06-15,16:50,9050,debit,BSNL,Payment related to BSNL,UTR100437,Bills
+2025-06-16,23:17,12026,debit,Flipkart,Payment related to Flipkart,UTR100438,Shopping
+2025-06-16,14:22,14788,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100439,Salary
+2025-06-18,09:09,17417,debit,Rapido,Payment related to Rapido,UTR100440,Transport
+2025-06-19,04:58,30089,debit,Flat Rent,Payment related to Flat Rent,UTR100441,Rent
+2025-06-19,21:57,5453,debit,TNEB,Payment related to TNEB,UTR100442,Bills
+2025-06-20,12:18,27122,debit,Mutual Fund,Payment related to Mutual Fund,UTR100443,Investment
+2025-06-21,18:11,44167,debit,SBI Securities,Payment related to SBI Securities,UTR100444,Investment
+2025-06-21,19:39,7143,debit,TNEB,Payment related to TNEB,UTR100445,Bills
+2025-06-21,17:54,1392,debit,BookMyShow,Payment related to BookMyShow,UTR100446,Entertainment
+2025-06-23,05:47,45813,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100447,Salary
+2025-06-23,04:18,19001,debit,BigBasket,Payment related to BigBasket,UTR100448,Groceries
+2025-06-23,10:50,46931,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100449,Salary
+2025-06-27,05:22,19172,debit,Friend Transfer,Payment related to Friend Transfer,UTR100450,Transfer
+2025-06-28,19:21,8936,debit,BSNL,Payment related to BSNL,UTR100451,Bills
+2025-06-29,03:41,7117,debit,Self Account,Payment related to Self Account,UTR100452,Transfer
+2025-06-29,04:04,14399,debit,Netflix,Payment related to Netflix,UTR100453,Entertainment
+2025-06-30,18:45,16716,debit,Ola,Payment related to Ola,UTR100454,Transport
+2025-06-30,01:25,22256,debit,Flat Rent,Payment related to Flat Rent,UTR100455,Rent
+2025-07-02,06:27,16939,debit,Airtel,Payment related to Airtel,UTR100456,Bills
+2025-07-02,21:39,8077,debit,Netflix,Payment related to Netflix,UTR100457,Entertainment
+2025-07-03,01:44,12147,debit,Mutual Fund,Payment related to Mutual Fund,UTR100458,Investment
+2025-07-03,05:08,14277,debit,Self Account,Payment related to Self Account,UTR100459,Transfer
+2025-07-04,21:35,42534,debit,Mutual Fund,Payment related to Mutual Fund,UTR100460,Investment
+2025-07-05,20:05,15096,debit,Swiggy,Payment related to Swiggy,UTR100461,Food
+2025-07-05,05:43,7384,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100462,Salary
+2025-07-05,17:49,17002,debit,Flipkart,Payment related to Flipkart,UTR100463,Shopping
+2025-07-06,03:50,14049,debit,Netflix,Payment related to Netflix,UTR100464,Entertainment
+2025-07-06,03:12,11221,debit,Airtel,Payment related to Airtel,UTR100465,Bills
+2025-07-08,14:47,38302,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100466,Salary
+2025-07-08,09:43,27116,debit,SBI Securities,Payment related to SBI Securities,UTR100467,Investment
+2025-07-08,10:51,5404,debit,Uber,Payment related to Uber,UTR100468,Transport
+2025-07-09,11:16,49736,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100469,Salary
+2025-07-09,00:32,6451,debit,Zepto,Payment related to Zepto,UTR100470,Groceries
+2025-07-09,00:26,11862,debit,Amazon,Payment related to Amazon,UTR100471,Shopping
+2025-07-10,16:52,5340,debit,Airtel,Payment related to Airtel,UTR100472,Bills
+2025-07-10,08:07,11075,debit,Friend Transfer,Payment related to Friend Transfer,UTR100473,Transfer
+2025-07-11,11:27,36659,debit,Flat Rent,Payment related to Flat Rent,UTR100474,Rent
+2025-07-12,15:57,32551,debit,House Owner,Payment related to House Owner,UTR100475,Rent
+2025-07-12,11:45,16604,debit,TNEB,Payment related to TNEB,UTR100476,Bills
+2025-07-12,19:06,18113,debit,Blinkit,Payment related to Blinkit,UTR100477,Groceries
+2025-07-13,01:50,31011,debit,Mutual Fund,Payment related to Mutual Fund,UTR100478,Investment
+2025-07-13,21:08,25269,debit,House Owner,Payment related to House Owner,UTR100479,Rent
+2025-07-14,01:20,874,debit,Ola,Payment related to Ola,UTR100480,Transport
+2025-07-14,16:08,7549,debit,Zepto,Payment related to Zepto,UTR100481,Groceries
+2025-07-15,23:18,5557,debit,Dominos,Payment related to Dominos,UTR100482,Food
+2025-07-15,16:08,1645,debit,Zomato,Payment related to Zomato,UTR100483,Food
+2025-07-16,22:13,21180,debit,House Owner,Payment related to House Owner,UTR100484,Rent
+2025-07-17,20:02,11943,debit,Ola,Payment related to Ola,UTR100485,Transport
+2025-07-17,18:50,18562,debit,Ola,Payment related to Ola,UTR100486,Transport
+2025-07-18,05:32,13438,debit,Airtel,Payment related to Airtel,UTR100487,Bills
+2025-07-18,02:51,24172,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100488,Salary
+2025-07-20,02:42,48210,debit,Flat Rent,Payment related to Flat Rent,UTR100489,Rent
+2025-07-23,08:00,4910,debit,Self Account,Payment related to Self Account,UTR100490,Transfer
+2025-07-23,15:09,6157,debit,TNEB,Payment related to TNEB,UTR100491,Bills
+2025-07-23,03:55,4912,debit,Dominos,Payment related to Dominos,UTR100492,Food
+2025-07-25,19:55,32044,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100493,Salary
+2025-07-25,16:46,8073,debit,Zomato,Payment related to Zomato,UTR100494,Food
+2025-07-25,23:24,12434,debit,BigBasket,Payment related to BigBasket,UTR100495,Groceries
+2025-07-26,16:02,8140,debit,Uber,Payment related to Uber,UTR100496,Transport
+2025-07-26,21:57,9910,debit,Airtel,Payment related to Airtel,UTR100497,Bills
+2025-07-26,02:48,8171,debit,Hotstar,Payment related to Hotstar,UTR100498,Entertainment
+2025-07-27,14:59,10806,debit,Self Account,Payment related to Self Account,UTR100499,Transfer
+2025-07-27,17:39,15057,debit,BookMyShow,Payment related to BookMyShow,UTR100500,Entertainment
+2025-07-29,11:58,28187,debit,Flat Rent,Payment related to Flat Rent,UTR100501,Rent
+2025-07-31,01:35,12435,debit,Mutual Fund,Payment related to Mutual Fund,UTR100502,Investment
+2025-07-31,23:59,45642,debit,SBI Securities,Payment related to SBI Securities,UTR100503,Investment
+2025-07-31,10:46,17784,debit,Netflix,Payment related to Netflix,UTR100504,Entertainment
+2025-08-02,03:20,17767,debit,Netflix,Payment related to Netflix,UTR100505,Entertainment
+2025-08-02,04:13,12783,debit,Self Account,Payment related to Self Account,UTR100506,Transfer
+2025-08-02,20:29,7774,debit,TNEB,Payment related to TNEB,UTR100507,Bills
+2025-08-03,02:34,11671,debit,TNEB,Payment related to TNEB,UTR100508,Bills
+2025-08-04,11:34,10486,debit,Friend Transfer,Payment related to Friend Transfer,UTR100509,Transfer
+2025-08-04,02:57,11828,debit,Rapido,Payment related to Rapido,UTR100510,Transport
+2025-08-04,03:55,17513,debit,Rapido,Payment related to Rapido,UTR100511,Transport
+2025-08-05,03:52,12131,debit,Hotstar,Payment related to Hotstar,UTR100512,Entertainment
+2025-08-06,17:29,232,debit,Swiggy,Payment related to Swiggy,UTR100513,Food
+2025-08-06,03:02,10182,debit,Myntra,Payment related to Myntra,UTR100514,Shopping
+2025-08-06,03:58,8242,debit,Friend Transfer,Payment related to Friend Transfer,UTR100515,Transfer
+2025-08-07,01:25,3684,debit,Netflix,Payment related to Netflix,UTR100516,Entertainment
+2025-08-09,11:44,9605,debit,Zepto,Payment related to Zepto,UTR100517,Groceries
+2025-08-09,07:34,1909,debit,BSNL,Payment related to BSNL,UTR100518,Bills
+2025-08-10,15:31,7810,debit,Myntra,Payment related to Myntra,UTR100519,Shopping
+2025-08-11,20:59,1784,debit,BSNL,Payment related to BSNL,UTR100520,Bills
+2025-08-11,19:27,14197,debit,Myntra,Payment related to Myntra,UTR100521,Shopping
+2025-08-11,08:38,16660,debit,Airtel,Payment related to Airtel,UTR100522,Bills
+2025-08-13,06:35,421,debit,Self Account,Payment related to Self Account,UTR100523,Transfer
+2025-08-13,12:50,13299,debit,BookMyShow,Payment related to BookMyShow,UTR100524,Entertainment
+2025-08-14,12:31,15745,debit,Friend Transfer,Payment related to Friend Transfer,UTR100525,Transfer
+2025-08-15,16:16,1636,debit,BSNL,Payment related to BSNL,UTR100526,Bills
+2025-08-15,23:11,48066,debit,Mutual Fund,Payment related to Mutual Fund,UTR100527,Investment
+2025-08-15,00:48,1976,debit,Rapido,Payment related to Rapido,UTR100528,Transport
+2025-08-16,23:30,3967,debit,TNEB,Payment related to TNEB,UTR100529,Bills
+2025-08-17,12:21,17641,debit,TNEB,Payment related to TNEB,UTR100530,Bills
+2025-08-18,01:31,14194,debit,BookMyShow,Payment related to BookMyShow,UTR100531,Entertainment
+2025-08-19,16:20,2837,debit,BSNL,Payment related to BSNL,UTR100532,Bills
+2025-08-19,20:27,9845,debit,SBI Securities,Payment related to SBI Securities,UTR100533,Investment
+2025-08-20,06:56,35702,credit,Company Pvt Ltd,Payment related to Company Pvt Ltd,UTR100534,Salary
+2025-08-20,16:28,4678,debit,Ola,Payment related to Ola,UTR100535,Transport
+2025-08-23,11:19,19955,debit,Flat Rent,Payment related to Flat Rent,UTR100536,Rent
+2025-08-24,21:35,7860,debit,Uber,Payment related to Uber,UTR100537,Transport
+2025-08-24,00:27,33231,debit,Mutual Fund,Payment related to Mutual Fund,UTR100538,Investment
+2025-08-25,18:34,8637,debit,Blinkit,Payment related to Blinkit,UTR100539,Groceries
+2025-08-26,15:30,5730,debit,BigBasket,Payment related to BigBasket,UTR100540,Groceries
+2025-08-26,11:49,5932,debit,Self Account,Payment related to Self Account,UTR100541,Transfer
+2025-08-28,14:22,16356,debit,Airtel,Payment related to Airtel,UTR100542,Bills
+2025-08-31,09:30,14263,debit,Flipkart,Payment related to Flipkart,UTR100543,Shopping
+2025-09-01,02:14,12368,debit,Blinkit,Payment related to Blinkit,UTR100544,Groceries
+2025-09-01,01:03,23974,debit,House Owner,Payment related to House Owner,UTR100545,Rent
+2025-09-01,13:52,7004,debit,TNEB,Payment related to TNEB,UTR100546,Bills
+2025-09-02,15:52,34499,debit,SBI Securities,Payment related to SBI Securities,UTR100547,Investment
