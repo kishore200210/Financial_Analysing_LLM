@@ -1,0 +1,8 @@
+streamlit
+pandas
+pdfplumber
+langchain
+langchain-google-genai
+plotly
+python-dotenv
+langflow
