@@ -5,4 +5,3 @@ langchain
 langchain-google-genai
 plotly
 python-dotenv
-langflow
