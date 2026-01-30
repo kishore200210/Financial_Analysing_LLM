@@ -61,4 +61,3 @@ A Streamlit-based application that analyzes your personal financial transaction 
 - `langchain-google-genai`
 - `plotly`
 
-#api key - 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
