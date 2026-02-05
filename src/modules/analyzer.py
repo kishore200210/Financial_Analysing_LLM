@@ -100,16 +100,42 @@ def call_langflow_api(message, endpoint, tweaks=None):
         response = requests.post(endpoint, json=payload)
         response.raise_for_status()
         result = response.json()
-        # Parse result structure - often result['outputs'][0]['results']['message']['text']
-        # This structure varies by Langflow version.
-        # We'll return the raw result if parsing fails or try common paths.
+        
+        # Robustly extract the text result
         try:
-            return result["outputs"][0]["outputs"][0]["results"]["message"]["text"]
+            outputs = result.get("outputs", [])
+            if outputs:
+                # Direct message path (Modern Langflow)
+                inner_outputs = outputs[0].get("outputs", [{}])
+                results = inner_outputs[0].get("results", {})
+                message = results.get("message", {})
+                if "text" in message:
+                    return message["text"]
+                
+                # Legacy path
+                results_legacy = outputs[0].get("results", {})
+                message_legacy = results_legacy.get("message", {})
+                data = message_legacy.get("data", {})
+                if "text" in data:
+                    return data["text"]
+
+            # Final Fallback: recursive search
+            def find_text(d):
+                if isinstance(d, dict):
+                    if "text" in d and isinstance(d["text"], str): return d["text"]
+                    for v in d.values():
+                        res = find_text(v)
+                        if res: return res
+                elif isinstance(d, list):
+                    for item in d:
+                        res = find_text(item)
+                        if res: return res
+                return None
+            
+            extracted = find_text(result)
+            return extracted if extracted else str(result)
+            
         except (KeyError, IndexError, TypeError):
-             try:
-                 return result["outputs"][0]["results"]["message"]["data"]["text"]
-             except:
-                return str(result)
+            return str(result)
     except Exception as e:
         return f"Langflow Error: {str(e)}"
-

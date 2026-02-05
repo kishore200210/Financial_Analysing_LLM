@@ -1,0 +1,8 @@
+# Custom Langflow Dockerfile with updated Google GenAI libraries
+FROM langflowai/langflow:latest
+
+# Upgrade the langchain-google-genai and google-generativeai packages
+# to fix model compatibility issues with gemini-1.5-flash and gemini-2.0-flash
+# RUN pip install --upgrade langchain-google-genai google-generativeai
+
+# The base image already exposes port 7860 and has the entrypoint configured
