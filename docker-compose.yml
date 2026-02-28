@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   streamlit-app:
     build: .
@@ -19,3 +17,4 @@ services:
     ports:
       - "7860:7860"
     command: ["langflow", "run", "--host", "0.0.0.0", "--port", "7860"]
+
